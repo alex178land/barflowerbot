@@ -588,9 +588,13 @@ async def choose_payment(msg: Message, state: FSMContext):
         )
         total += delivery_price
 
+    cart_items = []
+    for f in cart:
+        cart_items.append(f"{f['emoji']} {f['name']} — {f['price']} руб.")
+    
     order_text = (
         f"Ваш заказ:\n"
-        f"{chr(10).join([f'{f['emoji']} {f['name']} — {f['price']} руб.' for f in cart])}"
+        f"{chr(10).join(cart_items)}"
         + (f"\nДоставка: {delivery_price} руб." if delivery_price else "") +
         f"\nИтого к оплате: {total} руб."
         f"\nТелефон: {data.get('phone', '-')}"
@@ -614,12 +618,16 @@ async def confirm_order(callback: CallbackQuery, state: FSMContext):
     user_id = callback.from_user.id
     username = callback.from_user.username
     
+    cart_items = []
+    for f in data['cart']:
+        cart_items.append(f"{f['emoji']} {f['name']} — {f['price']} руб.")
+    
     order_text = (
         f"Новый заказ!\n"
         f"Пользователь: {data.get('user_name', '-')}\n"
         f"Ник: @{username if username else '-'}\n"
         f"Товары:\n" +
-        "\n".join([f"{f['emoji']} {f['name']} — {f['price']} руб." for f in data['cart']]) +
+        "\n".join(cart_items) +
         (f"\nДоставка: {data['delivery_price']} руб." if data['delivery_price'] else "") +
         f"\nИтого: {data['total']} руб."
         f"\nТелефон: {data.get('phone', '-')}"
