@@ -1,0 +1,246 @@
+[{
+    "photo": "AgACAgIAAxkBAAICn2ihumT43X8My2b4_T3am8NybYKuAAKM9DEbzHgRSTJ7SbL5V_wTAQADAgADeAADNgQ",
+    "name": "Маттиола",
+    "price": "250",
+    "emoji": "🌷",
+    "category": "Цветы в розницу"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAICq2ihuwLekxET3uJ9crcS-Yo8IlS_AAKR9DEbzHgRSfJNNrKaSlxuAQADAgADeAADNgQ",
+    "name": "Кустовая роза",
+    "price": "350",
+    "emoji": "🌷",
+    "category": "Цветы в розницу"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAICt2ihu2JkOstp94GSpOSQcIiVbz2MAAKT9DEbzHgRSVaa_8e5RgWeAQADAgADeAADNgQ",
+    "name": "Роза Pink Floyd",
+    "price": "280",
+    "emoji": "🌷",
+    "category": "Цветы в розницу"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAICw2ihu7EK9quIUl4z9e38FZ6OYxAHAAKV9DEbzHgRSbr1MK61ZIUbAQADAgADeAADNgQ",
+    "name": "Красная гвоздика",
+    "price": "100",
+    "emoji": "🌷",
+    "category": "Цветы в розницу"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAICz2ihu-3DVyOsaRG6Zs7w5TbA1YKKAAKa9DEbzHgRSbdsuY44_4eqAQADAgADeAADNgQ",
+    "name": "Красная роза",
+    "price": "300",
+    "emoji": "🌷",
+    "category": "Цветы в розницу"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAIC22ihvD5KxsZCOgwD0zK97Vq94DYLAAKb9DEbzHgRSbf8cpgPpdZTAQADAgADeAADNgQ",
+    "name": "Альстромерия",
+    "price": "150",
+    "emoji": "🌷",
+    "category": "Цветы в розницу"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAIC52ihvIZluIRrrjWY4mwW3IlBJzcDAAKj9DEbzHgRSUjT59IFQ5wMAQADAgADeAADNgQ",
+    "name": "Огромная французская роза",
+    "price": "320",
+    "emoji": "🌷",
+    "category": "Цветы в розницу"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAIC82ihvK2BHqrWgO_fTc_vuAhanRN-AAKl9DEbzHgRSfXsBNQxCzrsAQADAgADeAADNgQ",
+    "name": "Подсолнух",
+    "price": "300",
+    "emoji": "🌷",
+    "category": "Цветы в розницу"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAIDUmih1Zpml-msns8VZVGZxxn80obeAAIP_jEbBX8QSVkDe9R3NwwTAQADAgADeAADNgQ",
+    "name": "Кустовая хризантема Алтай",
+    "price": "300",
+    "emoji": "🌷",
+    "category": "Цветы в розницу"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAIDXmih1hGwWfPSdujdbESturgca3R8AAIR_jEbBX8QSS8cA-ZxqRX-AQADAgADeAADNgQ",
+    "name": "Букет без вазы",
+    "price": "2700",
+    "emoji": "💐",
+    "category": "Букеты"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAIDamih1khIRWADEq1aJnDiCBlnrSKsAAIS_jEbBX8QSR7TJiQPR1boAQADAgADeAADNgQ",
+    "name": "Коробка с гипсофилой",
+    "price": "2000",
+    "emoji": "💐",
+    "category": "Букеты"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAIDdmih1oFBgr-CaPW2q1xDnbqGypQSAAIT_jEbBX8QScN793x-O3YiAQADAgADeAADNgQ",
+    "name": "Букет с гипсофилой",
+    "price": "1500",
+    "emoji": "💐",
+    "category": "Букеты"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAIDgmih1rcWsFfsme_JKXvr1l-KqmUBAAIU_jEbBX8QSSJynKMlepsgAQADAgADeAADNgQ",
+    "name": "101 роза",
+    "price": "14990",
+    "emoji": "💐",
+    "category": "Букеты"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAIDjmih1viy6CZydlljRIqT0P8i_SVmAAIY_jEbBX8QSS4IuTKf59fBAQADAgADeAADNgQ",
+    "name": "Розы в шляпной коробке",
+    "price": "4500",
+    "emoji": "💐",
+    "category": "Букеты"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAIDmmih1x0XoqLtV_hhhw60dhfY_3IgAAIZ_jEbBX8QSZts3_zYnxYkAQADAgADeAADNgQ",
+    "name": "Коробка сердце",
+    "price": "3500",
+    "emoji": "💐",
+    "category": "Букеты"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAIDpmih102gMlBF3ayaauvaPqTCg09lAAIa_jEbBX8QSb4ZnrhkFja2AQADAgADeAADNgQ",
+    "name": "Моно букет из роз",
+    "price": "3500",
+    "emoji": "💐",
+    "category": "Букеты"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAIDsmih139t_ct0vuQV7GWMTzBAX6GjAAIb_jEbBX8QSStoF2xmF7enAQADAgADeAADNgQ",
+    "name": "Букет корсет",
+    "price": "3400",
+    "emoji": "💐",
+    "category": "Букеты"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAIDvmih18b9UWegxNLMYigEegF5bW1-AAIc_jEbBX8QSReo2UOtNrIYAQADAgADeAADNgQ",
+    "name": "Очень сильно тебя люблю",
+    "price": "6950",
+    "emoji": "💐",
+    "category": "Букеты"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAIDymih2AIyGsP9UPGHFRbnZgwhp6ItAAIe_jEbBX8QSZeo9Viif3QZAQADAgADeAADNgQ",
+    "name": "Композиция с французскими розамт",
+    "price": "3400",
+    "emoji": "💐",
+    "category": "Букеты"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAID1mih2DN9YEESk1MUhfsXnLmG_VTGAAIf_jEbBX8QSS6YQVIzXFmMAQADAgADeAADNgQ",
+    "name": "Композиция в сумочке",
+    "price": "2000",
+    "emoji": "💐",
+    "category": "Букеты"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAID4mih2F5LUF6K3r5V-Voj9oK5RbaCAAIg_jEbBX8QSRC4keJWruBpAQADAgADeAADNgQ",
+    "name": "Композиция в сумочке",
+    "price": "1500",
+    "emoji": "💐",
+    "category": "Букеты"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAID_Wih9Hzvnya_1YUtJacH8vX6rLTjAALX_jEbBX8QSR6cl0P8jboGAQADAgADeAADNgQ",
+    "name": "Букет, который не завянет",
+    "price": "1500",
+    "emoji": "💐",
+    "category": "Букеты"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAIECWih9KrckeKiwrnvZReq-uag6qtQAALY_jEbBX8QScM-E6S9sNCRAQADAgADeAADNgQ",
+    "name": "Композиция комплимент",
+    "price": "1000",
+    "emoji": "💐",
+    "category": "Букеты"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAIEFWih9NpXTJD_TGNnaF4KbfEtb6XQAALZ_jEbBX8QScseiG-KW1VhAQADAgADeAADNgQ",
+    "name": "Большой сборный букет",
+    "price": "5000",
+    "emoji": "💐",
+    "category": "Букеты"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAIEIWih9QiOD5D3AfdkJ3ooTjetoaNFAALb_jEbBX8QSYmAyTHuljmfAQADAgADeAADNgQ",
+    "name": "Нежный букет",
+    "price": "2500",
+    "emoji": "💐",
+    "category": "Букеты"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAIELWih9UK70N-5o81GRnuXAvGD1Y7nAALf_jEbBX8QSUYZgcoIKaX_AQADAgADeAADNgQ",
+    "name": "Сборный букет №3",
+    "price": "2200",
+    "emoji": "💐",
+    "category": "Букеты"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAIEOWih9W9H6RCli7oMh-CXTm4nVr8TAALn_jEbBX8QSWE_rohVguYwAQADAgADeAADNgQ",
+    "name": "Сборный букет №2",
+    "price": "1700",
+    "emoji": "💐",
+    "category": "Букеты"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAIERWih-vgB74CaF-rsJCS4F6FYOHkyAAIa_zEbBX8QSRFE2-6B_o4vAQADAgADeAADNgQ",
+    "name": "Кустовые розы",
+    "price": "2500",
+    "emoji": "💐",
+    "category": "Букеты"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAIEUWih-x8xfxnJSSZioa4T6EKieNpbAAIc_zEbBX8QSSFXgY74SWZ1AQADAgADeAADNgQ",
+    "name": "Букет нежность",
+    "price": "3500",
+    "emoji": "💐",
+    "category": "Букеты"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAIEXWih-0wBfp4MmxM12HWauo519-x9AAId_zEbBX8QSSJprMzlaeqsAQADAgADeAADNgQ",
+    "name": "Букет невесты и бутоньерка",
+    "price": "3500",
+    "emoji": "💐",
+    "category": "Букеты"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAIEaWih-3vJRoeiVNKxVKp8rPGt9xwfAAIe_zEbBX8QSf7P4afaRMUCAQADAgADeAADNgQ",
+    "name": "Букет-бабочка",
+    "price": "3000",
+    "emoji": "💐",
+    "category": "Букеты"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAIEdWih-6QFNZLG2gy-6owXVP4Co9B8AAIg_zEbBX8QSVCa5CU8j16fAQADAgADeAADNgQ",
+    "name": "Большая сборная корзина",
+    "price": "15000",
+    "emoji": "💐",
+    "category": "Букеты"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAIEgWih-9A8tjFEXdi3JkLysU3N65pPAAIi_zEbBX8QScDFpmsRB0mQAQADAgADeAADNgQ",
+    "name": "Букет первоклассника",
+    "price": "1500",
+    "emoji": "💐",
+    "category": "Букеты"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAIEl2ih_B1E_pJ7H2M8FHNa4Jrv-A89AAJp_zEbBX8QSXZvtcVmQgX1AQADAgADeAADNgQ",
+    "name": "Букет первый звонок",
+    "price": "1200",
+    "emoji": "💐",
+    "category": "Букеты"
+  },
+  {
+    "photo": "AgACAgIAAxkBAAIEo2ih_EnwuYf-3GWj1zlGVsY6mSxgAAJy_zEbBX8QSUpDwp2L2foXAQADAgADeAADNgQ",
+    "name": "Сумочка М",
+    "price": "1700",
+    "emoji": "💐",
+    "category": "Букеты"
+  }
+]
